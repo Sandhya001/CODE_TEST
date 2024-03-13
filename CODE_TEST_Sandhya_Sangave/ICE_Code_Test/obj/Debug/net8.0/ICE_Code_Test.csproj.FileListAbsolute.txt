@@ -1,0 +1,14 @@
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\bin\Debug\net8.0\ICE_Code_Test.exe
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\bin\Debug\net8.0\ICE_Code_Test.deps.json
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\bin\Debug\net8.0\ICE_Code_Test.runtimeconfig.json
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\bin\Debug\net8.0\ICE_Code_Test.dll
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\bin\Debug\net8.0\ICE_Code_Test.pdb
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.AssemblyInfoInputs.cache
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.AssemblyInfo.cs
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.csproj.CoreCompileInputs.cache
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.dll
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\refint\ICE_Code_Test.dll
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.pdb
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ICE_Code_Test.genruntimeconfig.cache
+C:\Users\Atul Asus\source\repos\ICE_Code_Test\ICE_Code_Test\obj\Debug\net8.0\ref\ICE_Code_Test.dll
